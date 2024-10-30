@@ -1,0 +1,5 @@
+tiktoken
+langchain
+openai
+
+ python -u "d:\chatgpt-retrieval-main\chatgpt.py"

@@ -1,0 +1,33 @@
+# Ignoring large files
+**/yolov5/best.pt
+**/yolov5/my_model.pt
+**/yolov5/yolov5s.pt
+**/FaceRecogAcademy/src/faceEmbeddingModels/my_model.h5
+**/Image-classification-Project/model/model.h5
+**/shredder System/frozen_graphs/model.ckpt.data-00000-of-00001
+**/shredder System/frozen_graphs/ssd5_optimized_inference_graph.pb
+**/shredder System/frozen_graphs/Ssdlite_Inference_real_data.pb
+**/shredder System/frozen_graphs/ssd_lite_frozen_inference_graph.pb
+**/deepSort_with_yolov5/img.gif
+**/deepSort_with_yolov5/yolov5s.pt
+**/deepSort_with_yolov5/deep_sort_pytorch/deep_sort/deep/checkpoint/ckpt.t7
+**/Diamond Price Predication/.conda/python38.pdb
+**/Diamond Price Predication/.conda/Library/bin/libcrypto-3-x64.pdb
+**/Diamond Price Predication/artifacts/raw.csv
+**/Diamond Price Predication/notebooks/data/gemstone.csv
+**/Family Expense/dataset/Family Income and Expenditure.csv
+**/Family Expense/dataset/family_income_data_cleaned_data.csv
+**/Family Expense/dataset/family_income_data_one_hot_encoded.csv
+**/Senser Fault Detection/.conda/python310.pdb
+**/Senser Fault Detection/.conda/Lib/site-packages/numpy.libs/libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll
+**/Senser Fault Detection/.conda/Lib/site-packages/scipy.libs/libopenblas_v0.3.26-382-gb1e8ba50--72a863714eca5a50b38260dedc0c2f3a.dll
+**/Senser Fault Detection/.conda/Library/bin/libcrypto-3-x64.pdb
+**/Senser Fault Detection/.conda/xgboost/xgboost.dll
+**/Senser Fault Detection/img/sensor video.mp4
+**/frozen_graphs/model.ckpt.data-00000-of-00001
+**/frozen_graphs/ssd5_optimized_inference_graph.pb
+**/frozen_graphs/Ssdlite_Inference_real_data.pb
+**/frozen_graphs/ssd_lite_frozen_inference_graph.pb
+**/End-to-end-Medical-Chatbot-using-Llama2/data/Medical_book.pdf
+**/Expense-Tracker-Web-App-main/Client/node_modules/sharp/build/Release/libvips-42.dll
+**/Expense-Tracker-Web-App-main/Client/node_modules/sharp/vendor/8.14.5/win32-x64/lib/libvips-42.dll

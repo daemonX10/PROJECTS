@@ -1,0 +1,1 @@
+Here list of most of projects that I have done in the past realted to data science, machine learning, deep learning, computer vision, and natural language processing.
